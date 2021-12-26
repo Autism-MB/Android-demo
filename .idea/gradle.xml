@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cahpter3-1layout" />
+            <option value="$PROJECT_DIR$/chapter1-logcat" />
+            <option value="$PROJECT_DIR$/chapter10-2sqlite" />
+            <option value="$PROJECT_DIR$/chapter10-file" />
+            <option value="$PROJECT_DIR$/chapter2-jump" />
+            <option value="$PROJECT_DIR$/chapter2-life" />
+            <option value="$PROJECT_DIR$/chapter2_activityjump" />
+            <option value="$PROJECT_DIR$/chapter2_activitymode" />
+            <option value="$PROJECT_DIR$/chapter3-2baseview" />
+            <option value="$PROJECT_DIR$/chapter3-2middelview" />
+            <option value="$PROJECT_DIR$/chapter3-3-switch" />
+            <option value="$PROJECT_DIR$/chapter3-3_checkbox" />
+            <option value="$PROJECT_DIR$/chapter3-3radio" />
+            <option value="$PROJECT_DIR$/chapter3-4baseadapter" />
+            <option value="$PROJECT_DIR$/chapter3-4listview" />
+            <option value="$PROJECT_DIR$/chapter3-4listview2" />
+            <option value="$PROJECT_DIR$/chapter3-4listview3" />
+            <option value="$PROJECT_DIR$/chapter3-4listview4" />
+            <option value="$PROJECT_DIR$/chapter3-4spinner" />
+            <option value="$PROJECT_DIR$/chapter3_1_view" />
+            <option value="$PROJECT_DIR$/chapter4-1newslist" />
+            <option value="$PROJECT_DIR$/chapter4-1test" />
+            <option value="$PROJECT_DIR$/chapter4-1wexin" />
+            <option value="$PROJECT_DIR$/chapter4-2viewpager" />
+            <option value="$PROJECT_DIR$/chapter4-2viewpagerkuozhan" />
+            <option value="$PROJECT_DIR$/chapter5-1phonestatus" />
+            <option value="$PROJECT_DIR$/chapter5-3anotherbroadcast" />
+            <option value="$PROJECT_DIR$/chapter5-3broadcast" />
+            <option value="$PROJECT_DIR$/chapter5_smsreceiver" />
+            <option value="$PROJECT_DIR$/chapter6-2notification" />
+            <option value="$PROJECT_DIR$/chapter6-3service" />
+            <option value="$PROJECT_DIR$/chapter6-4asynctasktest" />
+            <option value="$PROJECT_DIR$/chapter7-1phoneandsms" />
+            <option value="$PROJECT_DIR$/chapter7-4contact" />
+            <option value="$PROJECT_DIR$/chapter8-1photo" />
+            <option value="$PROJECT_DIR$/chapter8-2audio" />
+            <option value="$PROJECT_DIR$/chapter8-2video" />
+            <option value="$PROJECT_DIR$/chapter9-1webview" />
+            <option value="$PROJECT_DIR$/chapter9-jsontest" />
+            <option value="$PROJECT_DIR$/chapter9-okhttptest" />
+            <option value="$PROJECT_DIR$/chapter_3_3_edittext" />
+            <option value="$PROJECT_DIR$/firstapp" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/sd" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

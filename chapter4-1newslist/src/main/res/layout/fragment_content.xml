@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txt_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="最新通报！新增确诊病例6例，新增无症状感染者40例"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt_content"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="4月27日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例6例，其中3例为境外输入病例，3例为本土病例（黑龙江3例）；无新增死亡病例；新增疑似病例1例，为境外输入疑似病例（上海1例）。
+
+当日新增治愈出院病例81例，解除医学观察的密切接触者915人，重症病例减少2例。
+
+境外输入现有确诊病例552例（含重症病例21例），现有疑似病例6例。累计确诊病例1639例，累计治愈出院病例1087例，无死亡病例。"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</LinearLayout>

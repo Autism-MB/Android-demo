@@ -1,0 +1,15 @@
+package com.sziit.chapter6_4asynctasktest;
+
+public interface DownloadListener {
+
+    void onProgress(int progress);
+
+    void onSuccess();
+
+    void onFailed();
+
+    void onPaused();
+
+    void onCanceled();
+
+}

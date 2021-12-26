@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_x="30dp"
+        android:layout_y="290dp"
+        android:text="btn7"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="41dp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_x="160dp"
+        android:layout_y="290dp"
+        android:text="btn8"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="41dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_x="290dp"
+        android:layout_y="290dp"
+        android:text="btn9"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="41dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_x="30dp"
+        android:layout_y="160dp"
+        android:text="btn4"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="41dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_x="160dp"
+        android:layout_y="160dp"
+        android:text="曾沼铭1907040206"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="41dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_x="290dp"
+        android:layout_y="160dp"
+        android:text="btn6"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="41dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_x="290dp"
+        android:layout_y="30dp"
+        android:text="btn3"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="41dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_x="160dp"
+        android:layout_y="30dp"
+        android:text="btn2"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="41dp" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_x="30dp"
+        android:layout_y="30dp"
+        android:text="btn1"
+        tools:layout_editor_absoluteX="886dp"
+        tools:layout_editor_absoluteY="676dp" />
+
+
+</AbsoluteLayout>

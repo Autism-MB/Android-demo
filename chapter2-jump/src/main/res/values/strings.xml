@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">chapter2-jump</string>
+    <string name="act_main_text_info">肖茂彬 1907040231+第一个页面</string>
+    <string name="act_main_btn_jump">跳转到第二个页面</string>
+    <string name="act_sec_main_info">肖茂彬 1907040231+第二个页面</string>
+    <string name="act_sec_btn_jump">返回到第一个页面</string>
+</resources>
